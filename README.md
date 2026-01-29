@@ -137,7 +137,7 @@
 
 ### 👋 Thanks for visiting
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=90&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=90&section=footer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&pause=2000&color=6FA4FC&center=true&vCenter=true&width=450&lines=Open+for+connecting+and+collaborating+on+meaningful+projects." />
 
