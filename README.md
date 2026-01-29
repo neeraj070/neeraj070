@@ -144,7 +144,7 @@
 
 <br/>
 
-**⭐ If you find something useful here, feel free to explore or star the repositorie.**
+**⭐ If you find something useful here, feel free to explore or star the repositories.**
 
 </div>
 
