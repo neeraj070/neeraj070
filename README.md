@@ -18,6 +18,10 @@
     <img alt="Profile views" src="https://komarev.com/ghpvc/?username=neeraj070&style=flat-square" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/Neeraj_kumar_776/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/neerajkumar2006/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
