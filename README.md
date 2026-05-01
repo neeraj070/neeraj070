@@ -42,7 +42,7 @@
 <td width="50%">
 
 - B.Tech (3rd Year) CSE — SRM University-AP (2023–2027).
-- CGPA: 8.68
+- CGPA: 8.69
 - Interested in building full-stack websites & ML applications.
 - Actively strengthening data structures and problem-solving skills.
 - Learning through hands-on projects and consistent practice.
